@@ -1,0 +1,2 @@
+# Cloudflare Workers static assets ignore file.
+# Keep this file present so Wrangler's Astro setup/deploy path does not fail in CI.
