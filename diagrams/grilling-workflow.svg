@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">Grilling workflow diagram</title>
+  <desc id="desc">A hand-drawn workflow showing fuzzy idea, one question, decision, next question, and execution only after shared understanding.</desc>
+  <rect width="960" height="520" fill="#fbfbf8"/>
+  <style>
+    text{font-family:"Trebuchet MS",Arial,sans-serif;fill:#1f2933} .box{fill:#fffef7;stroke:#1f2933;stroke-width:3;rx:14} .accent{fill:#e9f3ff} .warn{fill:#fff3bf} .line{stroke:#1f2933;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round} .small{font-size:22px}.title{font-size:34px;font-weight:700}.label{font-size:25px;font-weight:700}
+  </style>
+  <text x="54" y="62" class="title">Do not execute the fuzzy request yet</text>
+  <rect x="60" y="130" width="190" height="96" class="box warn"/>
+  <text x="92" y="171" class="label">Fuzzy idea</text>
+  <text x="91" y="202" class="small">"Help me with this"</text>
+  <path d="M255 178 C300 158,320 158,365 178" class="line"/>
+  <path d="M350 164 L370 178 L348 190" class="line"/>
+  <rect x="380" y="120" width="220" height="116" class="box accent"/>
+  <text x="412" y="160" class="label">One question</text>
+  <text x="414" y="193" class="small">with a recommended</text>
+  <text x="414" y="220" class="small">answer</text>
+  <path d="M604 178 C650 156,670 156,716 178" class="line"/>
+  <path d="M700 164 L720 178 L698 191" class="line"/>
+  <rect x="730" y="130" width="170" height="96" class="box"/>
+  <text x="770" y="171" class="label">Decision</text>
+  <text x="762" y="202" class="small">user confirms</text>
+  <path d="M815 230 C817 305,695 318,610 300" class="line"/>
+  <path d="M626 318 L604 299 L631 289" class="line"/>
+  <rect x="360" y="282" width="250" height="104" class="box"/>
+  <text x="398" y="324" class="label">Next branch</text>
+  <text x="397" y="356" class="small">resolve dependency</text>
+  <path d="M486 388 C486 430,520 452,572 452" class="line"/>
+  <path d="M556 438 L578 452 L554 464" class="line"/>
+  <rect x="590" y="408" width="270" height="72" class="box accent"/>
+  <text x="628" y="454" class="label">Execute only after clarity</text>
+</svg>

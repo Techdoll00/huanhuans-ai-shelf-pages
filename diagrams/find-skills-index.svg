@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">find-skills capability index diagram</title>
+  <desc id="desc">A hand-drawn diagram comparing a messy prompt folder with a searchable capability index.</desc>
+  <rect width="960" height="520" fill="#fbfbf8"/>
+  <style>
+    text{font-family:"Trebuchet MS",Arial,sans-serif;fill:#1f2933}.box{fill:#fffef7;stroke:#1f2933;stroke-width:3;rx:14}.blue{fill:#e9f3ff}.green{fill:#e8f8ed}.line{stroke:#1f2933;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}.title{font-size:34px;font-weight:700}.label{font-size:25px;font-weight:700}.small{font-size:21px}
+  </style>
+  <text x="54" y="62" class="title">From prompt pile to capability index</text>
+  <rect x="58" y="122" width="250" height="290" class="box"/>
+  <text x="92" y="164" class="label">Prompt folder</text>
+  <text x="92" y="212" class="small">similar names</text>
+  <text x="92" y="250" class="small">overlapping uses</text>
+  <text x="92" y="288" class="small">hard to search</text>
+  <text x="92" y="326" class="small">no boundaries</text>
+  <path d="M325 265 C374 235,394 235,444 265" class="line"/>
+  <path d="M427 249 L450 265 L425 279" class="line"/>
+  <rect x="462" y="132" width="185" height="92" class="box blue"/>
+  <text x="504" y="173" class="label">Task</text>
+  <text x="495" y="202" class="small">What do I need?</text>
+  <rect x="462" y="292" width="185" height="92" class="box blue"/>
+  <text x="502" y="333" class="label">Search</text>
+  <text x="493" y="362" class="small">find matching skill</text>
+  <path d="M555 226 L555 288" class="line"/>
+  <path d="M542 270 L555 292 L568 270" class="line"/>
+  <path d="M655 337 C702 308,718 308,765 337" class="line"/>
+  <path d="M748 321 L770 337 L746 350" class="line"/>
+  <rect x="782" y="222" width="132" height="62" class="box green"/>
+  <text x="818" y="261" class="small">Inputs</text>
+  <rect x="782" y="303" width="132" height="62" class="box green"/>
+  <text x="818" y="342" class="small">Steps</text>
+  <rect x="782" y="384" width="132" height="62" class="box green"/>
+  <text x="806" y="423" class="small">Boundaries</text>
+</svg>

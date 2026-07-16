@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+  <title id="title">last30days trend radar diagram</title>
+  <desc id="desc">A hand-drawn radar workflow showing recent discussions feeding into verification and judgment.</desc>
+  <rect width="960" height="520" fill="#fbfbf8"/>
+  <style>
+    text{font-family:"Trebuchet MS",Arial,sans-serif;fill:#1f2933}.box{fill:#fffef7;stroke:#1f2933;stroke-width:3;rx:14}.blue{fill:#e9f3ff}.yellow{fill:#fff3bf}.green{fill:#e8f8ed}.line{stroke:#1f2933;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}.title{font-size:34px;font-weight:700}.label{font-size:25px;font-weight:700}.small{font-size:21px}
+  </style>
+  <text x="54" y="62" class="title">Treat recent discussion as radar, not truth</text>
+  <rect x="70" y="122" width="210" height="82" class="box blue"/>
+  <text x="105" y="157" class="label">Last 30 days</text>
+  <text x="104" y="185" class="small">posts, issues, comments</text>
+  <path d="M284 164 C342 142,374 142,430 164" class="line"/>
+  <path d="M412 148 L436 164 L411 178" class="line"/>
+  <rect x="450" y="105" width="210" height="118" class="box yellow"/>
+  <text x="488" y="145" class="label">Signal scan</text>
+  <text x="489" y="176" class="small">who talks?</text>
+  <text x="489" y="202" class="small">what words repeat?</text>
+  <path d="M555 226 C555 276,513 294,456 314" class="line"/>
+  <path d="M478 323 L450 316 L470 298" class="line"/>
+  <rect x="190" y="292" width="270" height="116" class="box"/>
+  <text x="230" y="334" class="label">Verify</text>
+  <text x="230" y="365" class="small">primary sources</text>
+  <text x="230" y="392" class="small">product pages / issues</text>
+  <path d="M466 350 C526 327,559 327,620 350" class="line"/>
+  <path d="M602 334 L626 350 L601 364" class="line"/>
+  <rect x="644" y="292" width="230" height="116" class="box green"/>
+  <text x="690" y="334" class="label">Judgment</text>
+  <text x="690" y="365" class="small">topic, product, trend</text>
+  <text x="690" y="392" class="small">decision stays yours</text>
+</svg>
